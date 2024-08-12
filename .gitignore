@@ -8,4 +8,6 @@ model.ckpt-0.meta
 
 *events.ou*
 
-Datos/Datos Preprocesados/Noticias_preprocesadas.csv
+*Noticias_preprocesadas.csv
+*.model
+*.npy
