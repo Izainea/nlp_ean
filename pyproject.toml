@@ -24,6 +24,8 @@ spacy = "2.*"
 keras = "3.*"
 tensorflow-io-gcs-filesystem = "0.31.*"
 tensorflow = "^2.18.0"
+keras-preprocessing = "^1.1.2"
+plotly = "^5.24.1"
 
 
 [build-system]
